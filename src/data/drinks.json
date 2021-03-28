@@ -1,0 +1,29 @@
+[
+  {
+    "img": "../assests/images/Cappuccino.png",
+    "alt": "Cappuccino",
+    "name": "Cappuccino",
+    "description": "dummy data",
+    "price": "$4.20",
+    "button": "Get Delivery",
+    "backgroundColor": "#b88a59"
+  },
+  {
+    "img": "../assests/images/CafeLatte.png",
+    "alt": "CafeLatte",
+    "name": "CafeLatte",
+    "description": "dummy data",
+    "price": "$3.15",
+    "button": "Get Delivery",
+    "backgroundColor": "#71917a"
+  },
+  {
+    "img": "../assests/images/DarkCoffee.png",
+    "alt": "DarkCoffee",
+    "name": "DarkCoffee",
+    "description": "dummy data",
+    "price": "$2.75",
+    "button": "Get Delivery",
+    "backgroundColor": "#362e2d"
+  }
+]

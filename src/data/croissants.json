@@ -1,0 +1,9 @@
+[
+  {
+    "img": "../assests/images/Croissants.png",
+    "alt": "Croissants",
+    "name": "Croissants",
+    "description": "dummy data",
+    "price": "$2.50"
+  }
+]

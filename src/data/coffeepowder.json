@@ -1,0 +1,9 @@
+[
+  {
+    "img": "../assests/images/CoffeePowder.png",
+    "alt": "CoffeePowder",
+    "name": "CoffeePowder",
+    "description": "dummy data",
+    "price": "$19.50"
+  }
+]
